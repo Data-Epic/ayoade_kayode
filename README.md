@@ -19,5 +19,5 @@ To activate the created environment, run
 run source venv/bin/activate on macos on windows, change the bin to scripts
 To install the needed libraries run
 pip install gspread pandas python-dotenv
-change working directory
+change working directory 
 cd gspread-workspace
